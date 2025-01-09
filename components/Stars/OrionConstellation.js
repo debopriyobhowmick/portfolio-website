@@ -1,6 +1,5 @@
 import React from 'react';
-
-// ... keep orionStars array the same ...
+import { orionStars } from './starData';
 
 const OrionConstellation = () => {
   return (
